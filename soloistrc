@@ -10,6 +10,7 @@ recipes:
 - tomcat-crate
 - sbt-crate
 - play_framework-crate
+- maven-crate
 node_attributes:
   uncrate:
     user: jl017725
