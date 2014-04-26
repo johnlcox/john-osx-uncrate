@@ -3,7 +3,6 @@ recipes:
 - sublime_text-crate
 - java-crate
 - intellij-crate
-- kdiff3-crate
 - scala-crate
 - chrome-crate
 - oh_my_zsh-crate
