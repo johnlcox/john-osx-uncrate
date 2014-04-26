@@ -37,4 +37,4 @@ git clean -qdf
 # Bundle and execute soloist
 echo -e "Running soloist"
 bundle
-bundle exec soloist
+soloist
