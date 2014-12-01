@@ -14,6 +14,8 @@ cookbook 'uncrate_base',
   :ref => 'master',
   :path => './uncrate_base'
 
+cookbook 'homebrewalt',  :github => "kitchenplan/chef-homebrewalt", :ref => "v1.8.8"
+
 github "sublime_text-crate", "master"
 github "java-crate", "mac"
 github "intellij-crate", "dev"

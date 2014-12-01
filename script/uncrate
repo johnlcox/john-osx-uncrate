@@ -26,8 +26,8 @@ echo -e "Installing bundler"
 gem install bundler
 
 # Remove lock files
-rm Cheffile.lock > /dev/null 2>&1
-rm Gemfile.lock > /dev/null 2>&1
+#rm Cheffile.lock > /dev/null 2>&1
+#rm Gemfile.lock > /dev/null 2>&1
 
 # Get latest repo
 git fetch -q origin
