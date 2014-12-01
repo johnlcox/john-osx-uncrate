@@ -11,7 +11,7 @@ cookbook 'java'
 
 cookbook 'uncrate_base', 
   :git => 'https://github.com/uncrate/uncrate.git',
-  :ref => 'dev',
+  :ref => 'master',
   :path => './uncrate_base'
 
 github "sublime_text-crate", "master"
